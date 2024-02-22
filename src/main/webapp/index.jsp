@@ -8,11 +8,5 @@
 	<h2 style="color: blue; font-size: 40px;" align="center">WELCOME TO JENKINS CLASS</h2>
         <h2 style="color: brown; font-size: 40px;" align="center">HEY There I am using Jenkins</h2>
 
-	
-	
-	
-	
-	
-	
 </body>
 </html>
